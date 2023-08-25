@@ -1,3 +1,4 @@
 # PatternQuest
-
-Remember the pattern of blinking colors and reclick the same pattern again to increase the level.
+A game using Javascript 
+# Desccription
+Remember the pattern sequence of blinking colors and if the pattern sequence matches with user input ,levels are increased.
