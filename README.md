@@ -1,3 +1,3 @@
-# pattern quest
+# PatternQuest
 
-remember the pattern of blinking colors and reclick the same pattern again to increase the level.# PatternQuest
+Remember the pattern of blinking colors and reclick the same pattern again to increase the level.
